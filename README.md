@@ -4,8 +4,7 @@ Interactive course site for the nonlinear chemical kinetics course, hosted via G
 at [nonlinear.spinchemistry.org](https://nonlinear.spinchemistry.org).
 
 Course content follows the lecture notes (Vorobiev & Bogdanov, *Kinetics of Nonlinear
-Chemical Systems*) with interactive simulators in the style of Sethna's
-[Statistical Mechanics](https://sethna.lassp.cornell.edu/StatMech/) course.
+Chemical Systems*), with interactive simulators accompanying each chapter.
 
 ## Structure
 
