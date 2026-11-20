@@ -137,3 +137,6 @@ figcaption{
 
 .crop{position:relative;overflow:hidden;margin:0 auto;width:100%;border:1px solid #e3ddc9;background:#fff}
 .crop img{position:absolute;max-width:none;border:0;padding:0}
+
+.scheme{display:block;max-width:100%;height:auto;margin:1em auto}
+.inline-scheme{display:inline-block;vertical-align:middle;margin:0 .3em}
