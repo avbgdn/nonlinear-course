@@ -100,3 +100,16 @@ footer{
 #lecture-list a:hover{
     color:var(--accent);
 }
+
+.display-eq{
+    text-align:center;
+    margin:1.2rem 0;
+}
+
+.display-eq math{
+    font-size:1.05em;
+}
+
+mjx-container{
+    margin:0.1em 0;
+}
