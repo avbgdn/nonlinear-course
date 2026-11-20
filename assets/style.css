@@ -113,3 +113,24 @@ footer{
 mjx-container{
     margin:0.1em 0;
 }
+
+figure{
+    margin:2rem auto;
+    text-align:center;
+    max-width:90%;
+}
+
+figure img{
+    max-width:100%;
+    height:auto;
+    border:1px solid #e3ddc9;
+    padding:0.5rem;
+    background:#fff;
+}
+
+figcaption{
+    margin-top:0.6rem;
+    font-size:0.9rem;
+    font-style:italic;
+    color:var(--muted);
+}
